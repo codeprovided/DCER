@@ -1,0 +1,60 @@
+ssh://omnisky@202.199.6.177:22/home/omnisky/anaconda3/envs/torch/bin/python3.6 -u /tmp/pycharm_project_456/MTGE/run.py
+[1,     0] loss: 0.112, The best rmse/mae: 9999.000000 / 9999.000000
+[1,   100] loss: 8.444, The best rmse/mae: 9999.000000 / 9999.000000
+save model
+epoch: 1
+rmse: 2.5655, mae:2.4366 
+[2,     0] loss: 0.061, The best rmse/mae: 2.565547 / 2.436614
+[2,   100] loss: 4.088, The best rmse/mae: 2.565547 / 2.436614
+save model
+epoch: 2
+rmse: 1.3922, mae:1.2585 
+[3,     0] loss: 0.035, The best rmse/mae: 1.392224 / 1.258534
+[3,   100] loss: 2.095, The best rmse/mae: 1.392224 / 1.258534
+save model
+epoch: 3
+rmse: 1.0295, mae:0.8963 
+[4,     0] loss: 0.017, The best rmse/mae: 1.029515 / 0.896309
+[4,   100] loss: 1.594, The best rmse/mae: 1.029515 / 0.896309
+save model
+epoch: 4
+rmse: 0.7656, mae:0.5952 
+[5,     0] loss: 0.010, The best rmse/mae: 0.765554 / 0.595161
+[5,   100] loss: 1.450, The best rmse/mae: 0.765554 / 0.595161
+save model
+epoch: 5
+rmse: 0.7354, mae:0.5596 
+[6,     0] loss: 0.016, The best rmse/mae: 0.735445 / 0.559629
+[6,   100] loss: 1.254, The best rmse/mae: 0.735445 / 0.559629
+save model
+epoch: 6
+rmse: 0.6982, mae:0.5522 
+[7,     0] loss: 0.013, The best rmse/mae: 0.698225 / 0.552220
+[7,   100] loss: 1.114, The best rmse/mae: 0.698225 / 0.552220
+epoch: 7
+rmse: 0.8252, mae:0.6551 
+[8,     0] loss: 0.011, The best rmse/mae: 0.698225 / 0.552220
+[8,   100] loss: 1.083, The best rmse/mae: 0.698225 / 0.552220
+epoch: 8
+rmse: 0.7064, mae:0.5675 
+[9,     0] loss: 0.005, The best rmse/mae: 0.698225 / 0.552220
+[9,   100] loss: 1.019, The best rmse/mae: 0.698225 / 0.552220
+save model
+epoch: 9
+rmse: 0.6566, mae:0.4211 
+[10,     0] loss: 0.008, The best rmse/mae: 0.656575 / 0.421126
+[10,   100] loss: 0.972, The best rmse/mae: 0.656575 / 0.421126
+epoch: 10
+rmse: 0.7223, mae:0.5706 
+[11,     0] loss: 0.010, The best rmse/mae: 0.656575 / 0.421126
+[11,   100] loss: 0.905, The best rmse/mae: 0.656575 / 0.421126
+epoch: 11
+rmse: 0.7250, mae:0.5738 
+[12,     0] loss: 0.012, The best rmse/mae: 0.656575 / 0.421126
+[12,   100] loss: 0.881, The best rmse/mae: 0.656575 / 0.421126
+epoch: 12
+rmse: 0.7541, mae:0.5922 
+[13,     0] loss: 0.014, The best rmse/mae: 0.656575 / 0.421126
+[13,   100] loss: 0.846, The best rmse/mae: 0.656575 / 0.421126
+epoch: 13
+rmse: 0.7078, mae:0.5512 

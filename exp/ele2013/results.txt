@@ -1,0 +1,37 @@
+(lightgcn) D:\Work\Kou\test\MTGE>python run.py
+[1,     0] loss: 0.113, The best rmse/mae: 9999.000000 / 9999.000000
+[1,   100] loss: 8.254, The best rmse/mae: 9999.000000 / 9999.000000
+save model
+epoch: 1
+rmse: 2.3644, mae:2.2560
+[2,     0] loss: 0.069, The best rmse/mae: 2.364414 / 2.255963
+[2,   100] loss: 3.950, The best rmse/mae: 2.364414 / 2.255963
+save model
+epoch: 2
+rmse: 1.5437, mae:1.3514
+[3,     0] loss: 0.029, The best rmse/mae: 1.543658 / 1.351352
+[3,   100] loss: 2.072, The best rmse/mae: 1.543658 / 1.351352
+save model
+epoch: 3
+rmse: 1.1623, mae:0.9666
+[4,     0] loss: 0.014, The best rmse/mae: 1.162330 / 0.966638
+[4,   100] loss: 1.543, The best rmse/mae: 1.162330 / 0.966638
+save model
+epoch: 4
+rmse: 0.7389, mae:0.5401
+[5,     0] loss: 0.009, The best rmse/mae: 0.738949 / 0.540054
+[5,   100] loss: 1.430, The best rmse/mae: 0.738949 / 0.540054
+epoch: 5
+rmse: 1.1624, mae:1.0274
+[6,     0] loss: 0.013, The best rmse/mae: 0.738949 / 0.540054
+[6,   100] loss: 1.240, The best rmse/mae: 0.738949 / 0.540054
+epoch: 6
+rmse: 0.8417, mae:0.6373
+[7,     0] loss: 0.010, The best rmse/mae: 0.738949 / 0.540054
+[7,   100] loss: 1.163, The best rmse/mae: 0.738949 / 0.540054
+epoch: 7
+rmse: 0.7470, mae:0.5692
+[8,     0] loss: 0.007, The best rmse/mae: 0.738949 / 0.540054
+[8,   100] loss: 1.037, The best rmse/mae: 0.738949 / 0.540054
+epoch: 8
+rmse: 1.3666, mae:1.2439
