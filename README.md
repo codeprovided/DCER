@@ -1,3 +1,7 @@
+Source code of DCER.
+# Paper code reading and Reproduce
+If you are interested in learning the module structure or coding style, please clone the source code we provided at this github repository. We offer the complete paper code at this repository. If you want to make a quick start and further reproduce the experiment result, please download the ./dataset part and ./model part which is available at 
+
 # Requirements
 python 3.6
 
