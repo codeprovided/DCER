@@ -1,0 +1,47 @@
+ssh://omnisky@202.199.6.177:22/home/omnisky/anaconda3/envs/torch/bin/python3.6 -u /tmp/pycharm_project_456/MTGE/run.py
+[1,     0] loss: 0.060, The best rmse/mae: 9999.000000 / 9999.000000
+save model
+epoch: 1
+rmse: 1.6764, mae:1.5398 
+[2,     0] loss: 0.030, The best rmse/mae: 1.676376 / 1.539764
+save model
+epoch: 2
+rmse: 1.3868, mae:1.2356 
+[3,     0] loss: 0.021, The best rmse/mae: 1.386817 / 1.235584
+save model
+epoch: 3
+rmse: 0.8753, mae:0.7150 
+[4,     0] loss: 0.016, The best rmse/mae: 0.875267 / 0.714985
+save model
+epoch: 4
+rmse: 0.7341, mae:0.5510 
+[5,     0] loss: 0.011, The best rmse/mae: 0.734139 / 0.551014
+save model
+epoch: 5
+rmse: 0.7250, mae:0.5309 
+[6,     0] loss: 0.009, The best rmse/mae: 0.725022 / 0.530918
+save model
+epoch: 6
+rmse: 0.7029, mae:0.4818 
+[7,     0] loss: 0.009, The best rmse/mae: 0.702904 / 0.481830
+epoch: 7
+rmse: 0.7840, mae:0.5730 
+[8,     0] loss: 0.009, The best rmse/mae: 0.702904 / 0.481830
+epoch: 8
+rmse: 0.7523, mae:0.5199 
+[9,     0] loss: 0.007, The best rmse/mae: 0.702904 / 0.481830
+save model
+epoch: 9
+rmse: 0.7016, mae:0.4755 
+[10,     0] loss: 0.007, The best rmse/mae: 0.701555 / 0.475505
+epoch: 10
+rmse: 0.7501, mae:0.5435 
+[11,     0] loss: 0.006, The best rmse/mae: 0.701555 / 0.475505
+epoch: 11
+rmse: 0.7239, mae:0.4945 
+[12,     0] loss: 0.006, The best rmse/mae: 0.701555 / 0.475505
+epoch: 12
+rmse: 0.7444, mae:0.5441 
+[13,     0] loss: 0.007, The best rmse/mae: 0.701555 / 0.475505
+epoch: 13
+rmse: 0.7103, mae:0.4628 
