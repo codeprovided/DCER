@@ -1,0 +1,58 @@
+[1,     0] loss: 0.113, The best rmse/mae: 9999.000000 / 9999.000000
+[1,   100] loss: 8.227, The best rmse/mae: 9999.000000 / 9999.000000
+save model
+epoch: 1
+rmse: 2.5304, mae:2.4139 
+[2,     0] loss: 0.063, The best rmse/mae: 2.530362 / 2.413947
+[2,   100] loss: 3.928, The best rmse/mae: 2.530362 / 2.413947
+save model
+epoch: 2
+rmse: 1.5047, mae:1.3706 
+[3,     0] loss: 0.030, The best rmse/mae: 1.504734 / 1.370634
+[3,   100] loss: 2.175, The best rmse/mae: 1.504734 / 1.370634
+save model
+epoch: 3
+rmse: 1.1090, mae:0.9017 
+[4,     0] loss: 0.012, The best rmse/mae: 1.108979 / 0.901741
+[4,   100] loss: 1.585, The best rmse/mae: 1.108979 / 0.901741
+save model
+epoch: 4
+rmse: 0.7858, mae:0.5818 
+[5,     0] loss: 0.008, The best rmse/mae: 0.785827 / 0.581768
+[5,   100] loss: 1.448, The best rmse/mae: 0.785827 / 0.581768
+epoch: 5
+rmse: 0.8243, mae:0.6442 
+[6,     0] loss: 0.015, The best rmse/mae: 0.785827 / 0.581768
+[6,   100] loss: 1.282, The best rmse/mae: 0.785827 / 0.581768
+epoch: 6
+rmse: 0.9211, mae:0.7717 
+[7,     0] loss: 0.012, The best rmse/mae: 0.785827 / 0.581768
+[7,   100] loss: 1.256, The best rmse/mae: 0.785827 / 0.581768
+epoch: 7
+rmse: 0.8768, mae:0.6806 
+[8,     0] loss: 0.007, The best rmse/mae: 0.785827 / 0.581768
+[8,   100] loss: 1.105, The best rmse/mae: 0.785827 / 0.581768
+save model
+epoch: 8
+rmse: 0.7402, mae:0.5267 
+[9,     0] loss: 0.009, The best rmse/mae: 0.740219 / 0.526725
+[9,   100] loss: 1.031, The best rmse/mae: 0.740219 / 0.526725
+save model
+epoch: 9
+rmse: 0.7039, mae:0.5395 
+[10,     0] loss: 0.007, The best rmse/mae: 0.703904 / 0.539477
+[10,   100] loss: 0.963, The best rmse/mae: 0.703904 / 0.539477
+epoch: 10
+rmse: 0.7928, mae:0.5271 
+[11,     0] loss: 0.009, The best rmse/mae: 0.703904 / 0.539477
+[11,   100] loss: 0.931, The best rmse/mae: 0.703904 / 0.539477
+epoch: 11
+rmse: 0.7069, mae:0.5430 
+[12,     0] loss: 0.004, The best rmse/mae: 0.703904 / 0.539477
+[12,   100] loss: 0.850, The best rmse/mae: 0.703904 / 0.539477
+epoch: 12
+rmse: 0.7051, mae:0.5395 
+[13,     0] loss: 0.007, The best rmse/mae: 0.703904 / 0.539477
+[13,   100] loss: 0.877, The best rmse/mae: 0.703904 / 0.539477
+epoch: 13
+rmse: 0.7444, mae:0.5812 
