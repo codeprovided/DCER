@@ -7,7 +7,7 @@ from collections import Counter
 
 import pandas as pd
 
-from data_dispose.load_1 import u_len, u_w_len
+from data_dispose.load_1 import u_len, u_w_len, i_len
 
 
 def clean_str(string):

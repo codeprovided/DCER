@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 import numpy as np
 # data = pd.read_csv('../dataset/filter_Electronics_2013.csv', header=None, names=['user', 'item', 'text', 'rating', 'time'])
-# res = pd.DataFrame(columns=('user', 'item', 'text', 'rating', 'time'))  # 初始化一个空的dataframe
+# res = pd.DataFrame(columns=('user', 'item', 'text', 'rating', 'time'))  #Initialize an empty DataFrame
 # GroupBy = data.groupby('user')
 # user = 0
 #
@@ -53,7 +53,7 @@ import numpy as np
 #                 time_6 = 1
 #                 continue
 #     if time_1 & time_2 & time_3 & time_4 & time_5 & time_6:
-#         res = pd.concat([res, num[1]], axis=0)  # 上下合并两个dataframe
+#         res = pd.concat([res, num[1]], axis=0)  #Merge two DataFrames vertically.
 #
 #
 # def get_count(data, id):
